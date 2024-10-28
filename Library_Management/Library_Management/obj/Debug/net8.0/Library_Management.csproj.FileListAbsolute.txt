@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Library_Management\Library_Management\bin\Debug\net8.0\Library_Management.exe
+C:\Users\HP\source\repos\Library_Management\Library_Management\bin\Debug\net8.0\Library_Management.deps.json
+C:\Users\HP\source\repos\Library_Management\Library_Management\bin\Debug\net8.0\Library_Management.runtimeconfig.json
+C:\Users\HP\source\repos\Library_Management\Library_Management\bin\Debug\net8.0\Library_Management.dll
+C:\Users\HP\source\repos\Library_Management\Library_Management\bin\Debug\net8.0\Library_Management.pdb
+C:\Users\HP\source\repos\Library_Management\Library_Management\obj\Debug\net8.0\Library_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Library_Management\Library_Management\obj\Debug\net8.0\Library_Management.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Library_Management\Library_Management\obj\Debug\net8.0\Library_Management.AssemblyInfo.cs
+C:\Users\HP\source\repos\Library_Management\Library_Management\obj\Debug\net8.0\Library_Management.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Library_Management\Library_Management\obj\Debug\net8.0\Library_Management.dll
+C:\Users\HP\source\repos\Library_Management\Library_Management\obj\Debug\net8.0\refint\Library_Management.dll
+C:\Users\HP\source\repos\Library_Management\Library_Management\obj\Debug\net8.0\Library_Management.pdb
+C:\Users\HP\source\repos\Library_Management\Library_Management\obj\Debug\net8.0\Library_Management.genruntimeconfig.cache
+C:\Users\HP\source\repos\Library_Management\Library_Management\obj\Debug\net8.0\ref\Library_Management.dll
